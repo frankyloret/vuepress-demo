@@ -5,14 +5,12 @@ export default  {
   theme: defaultTheme({
     // default theme config
     sidebar: [
-      {
-        text: 'Home',
-        link: '/README.md',
-      },
-      {
-        text: 'Chapter 01 Intro',
-        link: '/chapter1/README.md',
-      },
+      '/README.md',
+      '/chapter1/README.md',
+      // {
+      //   text: 'Chapter 01 Intro',
+      //   link: '/chapter1/README.md',
+      // },
     ],
     sidebarDepth: 2
   }),

@@ -1,4 +1,7 @@
-#Chapter 01 - Intro
+---
+title: Chapter1
+---
+# Chapter1 - Intro
 
 ## Introduction
 
